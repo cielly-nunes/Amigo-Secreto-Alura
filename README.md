@@ -36,7 +36,7 @@ A aplicação funciona como um sorteador simples: o usuário pode adicionar vár
 ##  Tecnologias Utilizadas
 
 - **JavaScript:** Para toda a lógica de programação e interatividade.
-- **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> ** Estrutura da página forncida pela Alura.
+- **HTML5:** Estrutura da página forncida pela Alura.
 - **CSS3:** Estilização fornecida pela Alura.
 
 ---
