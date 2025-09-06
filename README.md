@@ -29,7 +29,7 @@ A aplicação funciona como um sorteador simples: o usuário pode adicionar vár
 
 - **Sorteio de um Nome:** Seleciona aleatoriamente **um único participante** da lista.
 - **Exibição do Resultado:** Mostra na tela o nome do participante que foi sorteado.
-<img src="https://github.com/cielly-nunes/Amigo-Secreto-Alura/blob/main/assets/gifamigosecreto.gif" alt="Adiconar Pessoas" width="600"/>
+<img src="https://github.com/cielly-nunes/Amigo-Secreto-Alura/blob/main/assets/gifamigosecreto.gif" alt="Adiconar Pessoas" width="700"/>
 
 ---
 
