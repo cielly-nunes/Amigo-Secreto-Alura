@@ -19,7 +19,7 @@ A aplicação funciona como um sorteador simples: o usuário pode adicionar vár
 ##  Funcionalidades
 
 - **Adicionar Participantes:** Permite incluir nomes em uma lista para o sorteio.
-<img src="https://github.com/cielly-nunes/Amigo-Secreto-Alura/blob/main/assets/adicionarpessoas.png" alt="Adiconar Pessoas" width="600"/>
+<img src="https://github.com/cielly-nunes/Amigo-Secreto-Alura/blob/main/assets/adicionarpessoas.png" alt="Adiconar Pessoas" width="700"/>
 
 - **Validação de Nomes:** Impede que nomes duplicados ou vazios sejam adicionados.
 - **Listagem Dinâmica:** Exibe na tela todos os nomes que foram adicionados.
