@@ -12,7 +12,7 @@
 
 Este projeto foi desenvolvido como parte do Challenge de Lógica de Programação da [Alura](https://www.alura.com.br/) com o programa Oracle Next One. O desafio consistiu em aplicar conhecimentos de JavaScript para dar vida a uma página de sorteio para amigo secreto (HTML e CSS fornecidos pela Alura).
 
-A aplicação funciona como um sorteador simples: o usuário pode adicionar vários nomes a uma lista e, ao clicar em "Sortear amigo", o programa seleciona e exibe **um único nome** de forma aleatória dentre os que foram inseridos. O foco foi a prática de manipulação do DOM e a lógica para lidar com listas e eventos.
+A aplicação funciona como um sorteador simples: o usuário pode adicionar vários nomes a uma lista e, ao clicar em "Sortear amigo", o programa seleciona e exibe **um único nome** de forma aleatória dentre os que foram inseridos. O foco foi a prática de manipulação do DOM (Document Object Model) e a lógica para lidar com listas e eventos.
 
 ---
 
