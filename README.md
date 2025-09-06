@@ -25,7 +25,7 @@ A aplicação funciona como um sorteador simples: o usuário pode adicionar vár
 <img src="https://github.com/cielly-nunes/Amigo-Secreto-Alura/blob/main/assets/nomeduplicado.png" alt="Adiconar Pessoas" width="700"/>
 
 - **Listagem Dinâmica:** Exibe na tela todos os nomes que foram adicionados.
-<img src="https://github.com/cielly-nunes/Amigo-Secreto-Alura/blob/main/assets/listagemdinamica.png" alt="Adiconar Pessoas" width="700"/>
+<img src="https://github.com/cielly-nunes/Amigo-Secreto-Alura/blob/main/assets/listagemdinamica.png" alt="Adiconar Pessoas" width="600"/>
 - **Sorteio de um Nome:** Seleciona aleatoriamente **um único participante** da lista.
 - **Exibição do Resultado:** Mostra na tela o nome do participante que foi sorteado.
 
