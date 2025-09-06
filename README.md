@@ -3,7 +3,7 @@
 ![Badge de Status](https://img.shields.io/badge/status-concluído-brightgreen)
 
 <p align="center">
-  <img src="https://github.com/cielly-nunes/Amigo-Secreto-Alura/blob/main/assets/amigo-secreto.png" alt="Demonstração do projeto Amigo Secreto" width="700"/>
+  <img src="https://github.com/cielly-nunes/Amigo-Secreto-Alura/blob/main/assets/printchallenge.png?raw=true" alt="Demonstração do projeto Amigo Secreto" width="700"/>
 </p>
 
 ---
