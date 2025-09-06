@@ -40,12 +40,12 @@ Este é um projeto front-end bem simples e não requer instalação na máquina.
 
 1. **Clone o repositório:**
 ```bash
-   git clone https://github.com/cielly-nunes/ChallengeAlura-Amigo-Secreto
+   git clone https://github.com/cielly-nunes/Amigo-Secreto-Alura
 ```
 
 2. **Navegue até o diretório do projeto:**
   ```bash
-     cd ChallengeAlura-Amigo-Secreto
+     cd Amigo-Secreto-Alura
   ```
 
 3. **Abra o arquivo index.html no seu navegador.**
